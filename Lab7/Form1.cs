@@ -107,7 +107,7 @@ namespace Lab7
             }
             else
             {
-                MessageBox.Show("You did not select a value", "Error");
+                MessageBox.Show("You did not select a value" , "Error");
             }
         }
 
